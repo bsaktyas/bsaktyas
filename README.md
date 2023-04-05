@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bima</h1>
-<h3 align="center">A lazy ass programmer &  BTS Video game enthusiast</h3>
+<h3 align="center">A lazy ass programmer &  BTS video game enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diptaa&label=Profile%20views&color=0e75b6&style=flat" alt="diptaa" /> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Unreal Engine**
 
 - 💬 Ask me about **css,html,js,bootstrap,tailwind**
 - 📫 How to reach me **bima.sakti278@gmail.com**
