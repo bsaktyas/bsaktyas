@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bima</h1>
-<h3 align="center">A lazy progammer & video game enthusiast</h3>
+<h3 align="center">A lazy ass programmer &  BTS Video game enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diptaa&label=Profile%20views&color=0e75b6&style=flat" alt="diptaa" /> </p>
 
