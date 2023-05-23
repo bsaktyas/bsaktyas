@@ -2,7 +2,7 @@
 <h3 align="center">A lazy ass programmer &  BTS video game enthusiast.</h3>
 
 
-- 🌱 I’m currently learning **Unreal Engine**
+- 🌱 I’m currently learning **Unreal Engine** & **AI**
 
 - 💬 Ask me about **css,html,js,bootstrap,tailwind**
 - 📫 How to reach me **bima.sakti278@gmail.com**
